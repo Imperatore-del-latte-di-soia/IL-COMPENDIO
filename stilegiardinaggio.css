@@ -67,5 +67,5 @@ body {
     background-image: url(sunflowers.jpg);
     background-repeat: repeat;
     display: grid;
-    grid-template-columns: 400px 400px;
+    grid-template-columns: 1fr;
 }
