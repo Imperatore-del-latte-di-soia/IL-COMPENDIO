@@ -8,6 +8,7 @@ h2 {
     font-size: xx-large;
     color: antiquewhite;
     background-color: #00930057;
+    border: 3px solid black
 }
 #titolo2 {
     height: 60px;
