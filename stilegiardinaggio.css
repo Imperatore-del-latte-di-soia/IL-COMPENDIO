@@ -65,5 +65,7 @@ h2 {
 body {
     background-color: #FF00FF ;
     background-image: url(sunflowers.jpg);
-    background-repeat: no-repeat
+    background-repeat: repeat;
+    display: grid;
+    grid-template-columns: 400px 400px;
 }
